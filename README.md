@@ -1,6 +1,6 @@
 <h1 align="center">Welcome To My Repositories</h1>
 
-<h3 align="center">Hello, My name is Deryl A.K.A Lzybee</h3>
+<h3 align="center">Hello</h3>
 
 <h3 align="center">My Social Medias:</h3>
 
